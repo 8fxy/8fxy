@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @8fxy
+- 👋 Hi, I’m Sam Fu
 - 👀 I’m a data analyst in Shanghai, China
 - 💼 Mostly I use python/R to do my job
 - 🌱 I’m currently learning python/database/web/linux... and so on
